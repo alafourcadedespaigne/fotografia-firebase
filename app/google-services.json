@@ -1,0 +1,187 @@
+{
+  "project_info": {
+    "project_number": "392718474889",
+    "firebase_url": "https://connectionfirebase.firebaseio.com",
+    "project_id": "connectionfirebase",
+    "storage_bucket": "connectionfirebase.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:392718474889:android:f72abac3c6c63c98",
+        "android_client_info": {
+          "package_name": "py.com.android.ale.connectionfirebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "392718474889-ksnlqf6hgelum34b2b1o2dt144lee2kh.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "py.com.android.ale.connectionfirebase",
+            "certificate_hash": "7d314322661e3cf888702a9b3b90f7f63b58e2f3"
+          }
+        },
+        {
+          "client_id": "392718474889-3r5c8mv0fscftb7r9s8fctg0jdjmu7h5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCiq8ZdEPOqQrOgzOVFlUWdOrXMI5QHRlA"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "392718474889-3r5c8mv0fscftb7r9s8fctg0jdjmu7h5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:392718474889:android:09c0148e0830ea95",
+        "android_client_info": {
+          "package_name": "py.com.android.ale.fotografias"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "392718474889-485f5g2segd58h85mmu97dgthefgig1i.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "py.com.android.ale.fotografias",
+            "certificate_hash": "7d314322661e3cf888702a9b3b90f7f63b58e2f3"
+          }
+        },
+        {
+          "client_id": "392718474889-3r5c8mv0fscftb7r9s8fctg0jdjmu7h5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCiq8ZdEPOqQrOgzOVFlUWdOrXMI5QHRlA"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "392718474889-3r5c8mv0fscftb7r9s8fctg0jdjmu7h5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:392718474889:android:99c7915ee988c433",
+        "android_client_info": {
+          "package_name": "py.com.android.ale.menudecomida"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "392718474889-qskhhr0vf7b1k3kevv3pl3ih5at93274.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "py.com.android.ale.menudecomida",
+            "certificate_hash": "7d314322661e3cf888702a9b3b90f7f63b58e2f3"
+          }
+        },
+        {
+          "client_id": "392718474889-3r5c8mv0fscftb7r9s8fctg0jdjmu7h5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCiq8ZdEPOqQrOgzOVFlUWdOrXMI5QHRlA"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "392718474889-3r5c8mv0fscftb7r9s8fctg0jdjmu7h5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:392718474889:android:b1fa56051633590d",
+        "android_client_info": {
+          "package_name": "py.com.android.ale.ofertas"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "392718474889-hqhmtvhajdg1pa5gmbtjr4v4qlu59vjk.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "py.com.android.ale.ofertas",
+            "certificate_hash": "7d314322661e3cf888702a9b3b90f7f63b58e2f3"
+          }
+        },
+        {
+          "client_id": "392718474889-3r5c8mv0fscftb7r9s8fctg0jdjmu7h5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCiq8ZdEPOqQrOgzOVFlUWdOrXMI5QHRlA"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "392718474889-3r5c8mv0fscftb7r9s8fctg0jdjmu7h5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
